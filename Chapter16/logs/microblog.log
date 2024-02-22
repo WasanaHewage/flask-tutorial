@@ -94,3 +94,4 @@ jinja2.exceptions.TemplateNotFound: bootstrap_wtf.html
 2024-02-22 13:27:48,576 INFO: Microblog startup [in C:\Users\Isuri\OneDrive\Documents\BluchipProject\FlaskTuturial_task4\Chapter13\app\__init__.py:55]
 2024-02-22 13:28:03,217 INFO: Microblog startup [in C:\Users\Isuri\OneDrive\Documents\BluchipProject\FlaskTuturial_task4\Chapter13\app\__init__.py:55]
 2024-02-22 14:17:47,761 INFO: Microblog startup [in C:\Users\Isuri\OneDrive\Documents\BluchipProject\FlaskTuturial_task4\Chapter13\app\__init__.py:55]
+2024-02-22 17:41:50,410 INFO: Microblog startup [in C:\Users\Isuri\OneDrive\Documents\BluchipProject\FlaskTuturial_task4\Chapter13\app\__init__.py:55]
